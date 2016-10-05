@@ -11,7 +11,7 @@ Differences from `cal`:
 
 Example:
 
-$ calx 12 2016
+    $ calx 12 2016
 
        December 2016
     Su Mo Tu We Th Fr Sa
