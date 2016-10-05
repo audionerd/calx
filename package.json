@@ -1,6 +1,6 @@
 {
   "name": "calx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a calendar that shows full weeks of days",
   "main": "index.js",
   "author": "Eric Skogen",
